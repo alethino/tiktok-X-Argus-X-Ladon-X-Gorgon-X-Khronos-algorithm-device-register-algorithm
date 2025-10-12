@@ -2,8 +2,8 @@ import requests
 import time
 import json
 
-
 from types import SimpleNamespace
+
 server = "http://ip:port/api/2.0/xSign"
 
 currentTime = time.time()
